@@ -18,5 +18,6 @@ class Flyable {
   + fly()
 }
 
+Car *- Flyable
 
 @enduml
